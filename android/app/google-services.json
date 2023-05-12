@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514917626244",
+    "project_id": "fir-auth-c18a6",
+    "storage_bucket": "fir-auth-c18a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514917626244:android:2b96501aab65d385256dd1",
+        "android_client_info": {
+          "package_name": "com.example.heart_disease_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514917626244-93cjvinigvr0bl92aqh48ia2isiik58u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heart_disease_prediction",
+            "certificate_hash": "1c715da84335a47ddee7a83d949ca62fdf9ee3fa"
+          }
+        },
+        {
+          "client_id": "514917626244-denhe7a6841bi2481oovcfge9hv690ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXnwDXyI8a1DOGTKyPQ3JEpQg-NU03IaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514917626244-denhe7a6841bi2481oovcfge9hv690ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
