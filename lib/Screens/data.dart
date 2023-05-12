@@ -56,7 +56,7 @@ class _DataState extends State<Data> {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) { 
     //Age field
     final ageField = TextFormField(
       validator: (value) {
